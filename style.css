@@ -1,0 +1,42 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.start{
+    margin-left: 900px;
+}
+.aj-start{
+    float: left;
+    padding-left: 30px;
+    font-weight: 700;
+}
+h1{
+    font-size: 45px;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+}
+.name-color{
+    color:tomato
+}
+.half-width{
+    float: left;
+    width: 50%;
+}
+.text-one{
+    text-align: justify;
+    padding: 0px 50px;
+    color: dimgray;
+    font-size: 16.5px;
+}
+.half-width img{
+    width: 80%;
+    
+}
+.link-botton{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: tomato;
+    border-radius: 005px;
+    margin-left: 50px;
+    color: white;
+}
