@@ -93,3 +93,7 @@ h2{
     color: white;
     text-transform: uppercase;
 }
+.connected{
+    text-align: center;
+    margin-top: 70px;
+}
