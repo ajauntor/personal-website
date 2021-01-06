@@ -44,6 +44,12 @@ h1{
 .heading-color{
     color: tomato;
 }
+.lastet-heading{
+    width: 100%;
+    text-align: center;
+    text-transform: uppercase;
+    padding-bottom: 35px;
+}
 .lastet-main{
     padding: 60px;
 }
@@ -55,7 +61,7 @@ h2{
     clear: both;
     width: 100%;
     background-color: #F8F9FC;
-    height: 600px;
+    height: 650px;
 }
 .lastet-img{
     width: 100%;
@@ -67,4 +73,23 @@ h2{
     padding: 10px;
 	box-shadow: 5px 5px 10px gray;
 	margin-left: 10px;
-	border-radius: 15px;
+    border-radius: 15px;
+}
+.work-inquiry{
+    background-image: url("images/inquiry-bg.png");
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: 700px 150px;
+    margin-left: 300px;
+    margin-top: 35px;
+    width: 70%;
+}
+.left-inquiry{
+    float: left;
+    width: 50%;
+    margin-top: 20px;
+}
+.left-inquiry h2{
+    color: white;
+    text-transform: uppercase;
+}
