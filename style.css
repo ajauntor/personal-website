@@ -35,7 +35,7 @@ h1{
 }
 .link-botton{
     text-decoration: none;
-    padding: 10px 20px;
+    padding: 15px 25px;
     background-color: tomato;
     border-radius: 005px;
     margin-left: 50px;
@@ -96,4 +96,11 @@ h2{
 .connected{
     text-align: center;
     margin-top: 70px;
+}
+h4{
+    color: dimgray;
+    font-size: 20px;
+}
+.email{
+    font-size: 24px;
 }
